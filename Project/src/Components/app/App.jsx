@@ -5,7 +5,6 @@ import { RegisterPage } from "../reg/Register.jsx";
 import { CartPage } from "../cart/Cart.jsx";
 import { FavoritesPage } from "../favs/Favorites.jsx";
 import { Home } from "./Home.jsx";
-import {Navbar} from "./Navbar.jsx";
 
 
 function App() {
